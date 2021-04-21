@@ -1,0 +1,184 @@
+
+/* @media only screen and (max-width: 1440px) {
+    .header-chain-div{
+        position: absolute;
+        top: 9% !important;
+    }
+    .chain-image .image-2{
+        position: absolute !important;
+        top: 128% !important;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .chain-image .image-2{
+        position: absolute !important;
+        top: 110% !important;
+    }
+} */
+@media only screen and (min-width: 1200px) {
+    .header-chain-div{
+        position: absolute;
+        top: 90px !important;
+    }
+    .chain-image .image-2{
+        position: absolute !important;
+        top: 1130px !important;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .chain-image .image-1{
+
+    }
+    .chain-image .image-2{
+        position: absolute !important;
+        left: 186px !important;
+        width: 46% !important;
+        top: 110% !important;
+        height: 440px !important;
+    }
+    .layer-up{
+        display: inline !important;
+    }
+    .tight-on-brand{
+        margin-left: 215px !important;
+    }
+    .tight-on-brand-image .image-3{
+        width: 70% !important;
+        height: 350px !important;
+        margin-left: 60px !important;
+    }
+    .tight-on-brand-image .image-4{
+        position: absolute !important;
+        top: 1930px !important;
+        height: 300px !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .chain-image .image-1{
+
+    }
+    .chain-image .image-2{
+        position: absolute !important;
+        left: 186px !important;
+        width: 46% !important;
+        top: 110% !important;
+        height: 440px !important;
+    }
+    .layer-up{
+        display: inline !important;
+    }
+    .tight-on-brand{
+        margin-left: 215px !important;
+    }
+    .tight-on-brand-image .image-3{
+        width: 70% !important;
+        height: 350px !important;
+        margin-left: 60px !important;
+    }
+    .tight-on-brand-image .image-4{
+        position: absolute !important;
+        top: 1930px !important;
+        height: 300px !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .chain-image .image-1{
+
+    }
+    .chain-image .image-2{
+        position: absolute !important;
+        left: 186px !important;
+        width: 46% !important;
+        top: 110% !important;
+        height: 440px !important;
+    }
+    .layer-up{
+        display: inline !important;
+    }
+    .tight-on-brand{
+        margin-left: 215px !important;
+    }
+    .tight-on-brand-image .image-3{
+        width: 70% !important;
+        height: 350px !important;
+        margin-left: 60px !important;
+    }
+    .tight-on-brand-image .image-4{
+        position: absolute !important;
+        top: 1930px !important;
+        height: 300px !important;
+    }
+    
+}
+@media only screen and (max-width: 414px) {
+    .chain-image .image-1{
+
+    }
+    .chain-image .image-2{
+        position: absolute !important;
+        left: 170px !important;
+        top: 1139px !important;
+    }
+    .layer-up{
+        display: inline !important;
+    }
+    .tight-on-brand{
+        margin-left: 215px !important;
+    }
+    .tight-on-brand-image .image-3{
+        width: 70% !important;
+        height: 350px !important;
+        margin-left: 60px !important;
+    }
+    .tight-on-brand-image .image-4{
+        position: absolute !important;
+        top: 2300px !important;
+        height: 300px !important;
+        right: 81px !important;
+    }
+    .gold-chain-image .image-gold-chain{
+        width: 52% !important;
+        display: flex;
+        position: absolute;
+        left: 24% !important;
+        top: 730px !important;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .chain-image .image-1{
+
+    }
+    .chain-image .image-2{
+        position: absolute !important;
+        left: 170px !important;
+        top: 1139px !important;
+    }
+    .layer-up{
+        display: inline !important;
+    }
+    .tight-on-brand{
+        margin-left: 215px !important;
+    }
+    .tight-on-brand-image .image-3{
+        width: 70% !important;
+        height: 350px !important;
+        margin-left: 60px !important;
+    }
+    .tight-on-brand-image .image-4{
+        position: absolute !important;
+        top: 2300px !important;
+        height: 300px !important;
+        right: 81px !important;
+    }
+    .gold-chain-image .image-gold-chain{
+        width: 52% !important;
+        display: flex;
+        position: absolute;
+        left: 24% !important;
+        top: 730px !important;
+    }
+}
